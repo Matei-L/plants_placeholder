@@ -1,36 +1,35 @@
-  
-{
-  "plants": [
+[
   {
-    "id": 1,
-    "name": "Calendula officinalis L.",
-    "popularName": "Gălbenele;",
-    "famillyName": "Asteraceae (Compositae)",
-    "description": "Calendula oficinalis este o specie anuală sau bianuală. Rădăcina este pivotantă, lungă de 20 cm și groasă de 1 cm. Tulpina erectă, bogat ramificată (5-25 ramificații) înaltă de 40-80 cm este acoperită cu peri fini. Frunzele sunt lanceolate, cu vârful rotunjit, dispuse altern, de culoare verde intens, cu margini întregi. Florile sunt grupate în inflorescențe terminale – antodii (30-50 pe tufă), cu diametrul cuprins între 4-7 cm. Pe marginea inflorescenței se găsesc florile ligulate, iar în centru florile tubulare. Florile tubulare sunt hermafrodite, galbene sau portocalii, iar florile ligulate femeiești sunt tridentate. Inflorescența este galben-portocalie. Planta înflorește din luna mai până în luna octombrie. Polenizarea este entomofilă, fiind realizată în special de albine. Fructul este reprezentat de o achenă curbată, cu peri și cârlige.",
-    "others": 
-        [
-            {
-                "name" :"Aria de răspândire",
-                "description": "Specie originară din regiunea mediteraneană și vestul Asiei. S-a răspândit în toată Europa, ca plantă ornamentală și medicinală. În România se cultivă ca plantă medicinală în toate zonele agricole."
-            },
-            {
-                "name" :"Relația plantă-factori de vegetație",
-                "description": "Gălbenelele au cerințe moderate față de temperatură și umiditate. Semințele germinează în 2 săptămâni la o temperatură de 20-25 °C. Preferă lumină directă. Specia nu este pretențioasă la umiditate, dar răspunde favorabil la irigații mai ales în perioadele cu precipitații reduse. Gălbenelele se dezvoltă bine pe toate tipurile de sol."
-            },
-            {
-                "name" :"Semănatul",
-                "description": "Gălbenelele se înmulțesc prin semințe. Semănatul se execută mecanizat sau manual, în cuiburi (2-3 semințe) sau pe rând, la o distanță de 50 cm între rânduri și 20 cm între cuiburi pe rând. Epoca optimă pentru semănat este primăvara devreme (luna martie sau când temperatura solului este de 5-8 °C). Adâncimea de semănat este de 2-3 cm. Densitatea plantelor în câmp este de 15 plante/mp, fiind nevoie de 10-12 kg semințe/ha."
-            },
-            {
-                "name" :"Lucrări de întreținere",
-                "description": "După răsărire se execută manual plivitul și prășitul pentru spargerea crustei și distrugerea buruienilor, lucrările repetându-se la 2 săptămâni sau oricând este necesar, în perioada de vegetație. Se pot aplica fertilizări cu îngrășăminte minerale, pentru aportul suplimentar de azot, fosfor și potasiu."
-            },
-            {
-                "name" :"Combaterea buruienilor, bolilor și dăunătorilor",
-                "description": "Buruienile se combat prin plivit, prășit sau ierbicidare, înainte, imediat după semănat sau în perioada de vegetație. Cele mai întâlnite infecții fungice la cultura de gălbenele sunt făinarea (Sphaerotheca fuliginea), putregaiul alb (Sclerotinia sclerotiorum) și putregaiul cenușiu (Botrytis cinerea) pentru a căror combatere se folosesc fungicide specifice. Printre principalii dăunători ai gălbenelelor se numără: afidele (Aphis sp., Myzus sp.), fluturele alb al verzei (Pieris brassicae), buha verzei (Mamestra sp.). Metodele cele mai eficiente pentru combaterea bolilor sunt măsurile de igiena fitosanitară și respectarea tehnologiilor de cultură (asolamentul, arătura adâncă, epocile optime de semănat, combaterea buruienilor etc.)."
-            }
-        ]
-
+    "ipen": "XX-IPEN-Example",
+    "popularName": "Papadia",
+    "scientificName": "Papadius Vulgaris Hidrofobus",
+    "author": "Verde Amparat",
+    "origin": "Clejani",
+    "naturalArea": "Pajiste",
+    "type": {
+      "id": 1
+    },
+    "species": {
+      "id": 2
+    },
+    "images": [
+      {
+        "url": "https://www.pestre.ro/blog/wp-content/uploads/2017/07/Beneficiile-ceaiului-de-papadie-1024x658.jpg"
+      },
+      {
+        "url": "https://mediacdn.libertatea.ro/unsafe/375x285/smart/filters:contrast(8):quality(80)/https://static4.libertatea.ro/wp-content/uploads/2015/04/papadie_uzina_sanatate.jpg"
+      }
+    ],
+    "otherInfos": [
+      {
+        "title": "Intrebuintari",
+        "description": "Poti sa faci ceai din ea nebunule"
+      },
+      {
+        "title": "Cum o uzi?",
+        "description": "Ii pui apa"
+      }
+    ]
   },
   {
     "id": 2,
@@ -117,4 +116,3 @@
     "name": "Plant 22"
   }
 ]
-}

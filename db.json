@@ -1,38 +1,39 @@
 [
   {
+    "id": "1",
+    "ipen": "XX-IPEN-Example",
+    "popularName": "Papadia",
+    "scientificName": "Papadius Vulgaris Hidrofobus",
+    "author": "Verde Amparat",
+    "origin": "Clejani",
+    "naturalArea": "Pajiste",
+    "type": {
+      "id": 1
+    },
+    "species": {
+      "id": 2
+    },
+    "images": [
+      {
+        "url": "https://www.pestre.ro/blog/wp-content/uploads/2017/07/Beneficiile-ceaiului-de-papadie-1024x658.jpg"
+      },
+      {
+        "url": "https://mediacdn.libertatea.ro/unsafe/375x285/smart/filters:contrast(8):quality(80)/https://static4.libertatea.ro/wp-content/uploads/2015/04/papadie_uzina_sanatate.jpg"
+      }
+    ],
+    "otherInfos": [
+      {
+        "title": "Intrebuintari",
+        "description": "Poti sa faci ceai din ea nebunule"
+      },
+      {
+        "title": "Cum o uzi?",
+        "description": "Ii pui apa"
+      }
+    ]
+  },
+  {
     "id": 2,
     "name": "Plant 2"
-  },
-  {
-    "id": 3,
-    "name": "Plant 3"
-  },
-  {
-    "id": 4,
-    "name": "Plant 4"
-  },
-  {
-    "id": 5,
-    "name": "Plant 5"
-  },
-  {
-    "id": 6,
-    "name": "Plant 6"
-  },
-  {
-    "id": 7,
-    "name": "Plant 7"
-  },
-  {
-    "id": 8,
-    "name": "Plant 8"
-  },
-  {
-    "id": 9,
-    "name": "Plant 9"
-  },
-  {
-    "id": 10,
-    "name": "Plant 10"
   }
 ]

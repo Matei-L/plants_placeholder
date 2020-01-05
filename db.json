@@ -10,10 +10,12 @@
       "origin": "Clejani",
       "naturalArea": "Pajiste",
       "type": {
-        "id": 1
+        "id": 1,
+        "name": "type1"
       },
       "species": {
-        "id": 2
+        "id": 2,
+        "name": "species2"
       },
       "images": [
         {
@@ -33,38 +35,127 @@
           "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry."
         },
         {
-          "title": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+          "title": "Desc1",
+          "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry."
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "ipen": "X2-IPEN-Example",
+      "popularName": "Planta2",
+      "scientificName": "Plantus doius",
+      "author": "Verde Amparat",
+      "origin": "Clejani",
+      "naturalArea": "Pajiste",
+      "type": {
+        "id": 2,
+        "name": "type2"
+      },
+      "species": {
+        "id": 3,
+        "name": "species3"
+      },
+      "images": [
+        {
+          "url": "https://www.pestre.ro/blog/wp-content/uploads/2017/07/Beneficiile-ceaiului-de-papadie-1024x658.jpg"
+        }
+      ],
+      "otherInfos": [
+        {
+          "title": "Intrebuintari",
+          "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum."
+        },
+        {
+          "title": "Desc1",
           "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry."
         },
         {
-          "title": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+          "title": "Desc2",
+          "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry."
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "ipen": "X3-IPEN-Example",
+      "popularName": "Planta3",
+      "scientificName": "Plantus faras pozus",
+      "author": "Verde Amparat",
+      "origin": "Clejani",
+      "naturalArea": "Pajiste",
+      "type": {
+        "id": 1,
+        "name": "type1"
+      },
+      "species": {
+        "id": 1,
+        "name": "species1"
+      },
+      "images": [
+      ],
+      "otherInfos": [
+        {
+          "title": "Intrebuintari",
+          "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum."
+        },
+        {
+          "title": "Desc1",
           "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry."
         },
         {
-          "title": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+          "title": "Desc2",
           "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry."
         },
         {
-          "title": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
-          "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry."
-        },
-        {
-          "title": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
-          "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry."
-        },
-        {
-          "title": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
-          "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry."
-        },
-        {
-          "title": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
-          "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry."
-        },
-        {
-          "title": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+          "title": "Desc3",
           "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry."
         }
       ]
     }
+  ],
+  "type":[
+      {
+        "id": 1,
+        "name": "type1"
+      },
+      {
+        "id": 2,
+        "name": "type2"
+      },
+      {
+        "id": 3,
+        "name": "type3"
+      },
+      {
+        "id": 4,
+        "name": "type4"
+      },
+      {
+        "id": 5,
+        "name": "type5"
+      }
+  ],
+  "species":[
+      {
+        "id": 1,
+        "name": "species1"
+      },
+      {
+        "id": 2,
+        "name": "species2"
+      },
+      {
+        "id": 3,
+        "name": "species3"
+      },
+      {
+        "id": 4,
+        "name": "tspecies"
+      },
+      {
+        "id": 5,
+        "name": "tspecies"
+      }
   ]
 }

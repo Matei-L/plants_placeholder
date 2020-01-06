@@ -21,6 +21,10 @@
         {
           "id": 1,
           "url": "https://www.pestre.ro/blog/wp-content/uploads/2017/07/Beneficiile-ceaiului-de-papadie-1024x658.jpg"
+        },
+        {
+          "id": 2,
+          "url": "https://mediacdn.libertatea.ro/unsafe/375x285/smart/filters:contrast(8):quality(80)/https://static4.libertatea.ro/wp-content/uploads/2015/04/papadie_uzina_sanatate.jpg"
         }
       ],
       "otherInfos": [
@@ -59,12 +63,8 @@
       },
       "images": [
         {
-          "id": 1,
-          "url": "https://www.pestre.ro/blog/wp-content/uploads/2017/07/Beneficiile-ceaiului-de-papadie-1024x658.jpg"
-        },
-        {
-          "id": 2,
-          "url": "https://mediacdn.libertatea.ro/unsafe/375x285/smart/filters:contrast(8):quality(80)/https://static4.libertatea.ro/wp-content/uploads/2015/04/papadie_uzina_sanatate.jpg"
+          "id": 3,
+          "url": "https://s12emagst.akamaized.net/products/26648/26647891/images/res_953537db8983a3cb1adbcbbaa66e02d2_full.jpg"
         }
       ],
       "otherInfos": [

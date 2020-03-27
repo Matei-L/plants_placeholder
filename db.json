@@ -170,5 +170,10 @@
         "id": 5,
         "name": "tspecies"
       }
+  ],
+  "sections": [
+    {
+      "name": "Sectia Rosarium"
+    }
   ]
 }

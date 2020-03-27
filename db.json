@@ -173,7 +173,14 @@
   ],
   "sections": [
     {
-      "name": "Sectia Rosarium"
+      "id": 1,
+      "name": "Sectia Rosarium",
+      "locationAndSize": "locationAndSize",
+      "description": "description",
+      "latitude": 1,
+      "longitude": 1,
+      "subsections":[],
+      "images":[]
     }
   ]
 }

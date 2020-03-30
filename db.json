@@ -175,12 +175,363 @@
     {
       "id": 1,
       "name": "Sectia Rosarium",
-      "locationAndSize": "locationAndSize",
-      "description": "description",
-      "latitude": 1,
-      "longitude": 1,
+      "locationAndSize": "Rosarium-ul sau Parcul Rozelor este în vecinătatea secţiilor Sistematică, Plante Utile şi Dendrarium, având o suprafaţă de 1,5 ha şi însumând cca. 800 de soiuri de trandafiri reprezentaţi în grupe horticole după: talie, formă şi culoare. În timp, unele soiuri nu au rezistat la condiţiile climatice ale zonei, iar numărul a fost în continua schimbare, date fiind preocupările permanente de îmbogăţire a colecţiei.",
+      "description": "Rosarium-ul sau Parcul Rozelor este în vecinătatea secţiilor Sistematică, Plante Utile şi Dendrarium, având o suprafaţă de 1,5 ha şi însumând cca. 800 de soiuri de trandafiri reprezentaţi în grupe horticole după: talie, formă şi culoare. În timp, unele soiuri nu au rezistat la condiţiile climatice ale zonei, iar numărul a fost în continua schimbare, date fiind preocupările permanente de îmbogăţire a colecţiei.",
+      "latitude": 47.183507,
+      "longitude": 27.554483,
       "subsections":[],
-      "images":[]
-    }
+      "images":[
+          {
+              "id": 1,
+              "url": "https://i.imgur.com/ukaMl3O.png"
+          }
+      ]
+    },
+    {
+        "id": 2,
+        "name": "Sectia Sistematica",
+        "locationAndSize": "Sectia Sistematica se afla in imediata apropiere a portii principale a Gradinii Botanice, in partea stanga a acesteia, unde pe o suprafata de cca. 4,5 ha se cultiva aproximativ 700 de taxoni, plante vasculare lemnoase si ierboase, dispuse pe teren dupa inrudirea lor naturala in increngaturi, ramuri, ordine si familii botanice.",
+        "description": "Terenul destinat sectiei este strabatut de o serie de alei radiale si circulare ce permit accesul vizitatorilor către straturile de plante si care indeplinesc si un rol stiintific (filogenetic), prin separarea ordinelor si familiilor intre ele. O alee circulara lata de 3 m separa ordinele cu flori dialipetale (cu petale libere), dispuse spre centrul sectiei, de cele cu flori simpetale (cu petale unite) dispuse spre periferia sectiei.
+        Chiar de la intrarea in sectie, pe partea stanga, se pot observa doua exemplare de Metasequoia gliptostroboides, specie din familia Taxodiaceae, cunoscuta doar ca planta fosila pana in anul 1941, cand studentii chinezi Cheng si Hu au descoperit-o in stare vie, in padurile din Centrul Chinei.
+        
+        Nu departe de intrarea in Grădina Botanică, pe trei laturi ale unui mic spatiu dreptunghiular al sectiei, se afla o piateta cu busturile a trei dintre fostii directori ai institutiei:
+        •	profesor Constantin Papp
+        •	profesor Emilian Topa
+        •	profesor Constantin Burduja
+        De aici, se desprind doua alei strajuite pe lateral de tuia columnara (Thuja occidentalis 'Fastigiata'), ce delimiteaza un parter larg, decorat cu forme topiare sferice de cimisir (Buxus sempervirens), specie mediteraneană pe deplin aclimatizată aici.
+        In centrul sectiei, in jurul unui bazin cu nuferi din diferite soiuri (inclusv speciile spontane de nuferi din flora Romaniei, Nymphaea alba şi Nuphar lutea) si a unui Auditorium (constructie din piatra si lemn) sunt grupati reprezentanti ai lumii vegetale din familiile: Ranunculaceae, Paeoniaceae, Berberidaceae, Lardizabalaceae, Ebenaceae, Aristolochiaceae etc.
+        Tot aici exista si o stancarie, cu cca 20 de specii de plante rare si endemice in flora Romaniei, contribuindu-se astfel la conservarea ex situ a unor taxoni amenintati din flora spontana a tarii noastre.
+        
+        In cadrul sectiei Sistematice se afla si: 
+        •	reprezentanti ai familiei Oleaceace reprezentata de colectii ale genurilor Ligustrum, Fraxinus si Syringa;
+        •	specii ale familiei Asteraceae (Compositae), printre care: Doronicum orientale, Echinops bannaticus, Serratula coronata;
+        •	reprezentanti ai familiei Brassicaceae (Cruciferae), precum: Erysimum witmannii, Alyssum borzeanum, Schivereckia podolica etc.);
+        •	familia Caryophyllaceae, careia ii apartin un numar mare de plante rare si ocrotite, cultivate in stancaria rezervata acestei familii, printre care: Cerastium banaticum, Petrorhagia illyrica ssp. haynaldiana, Dianthus tenuifolius etc.;
+        •	numeroşi reprezentanti ai familiilor: Rosaceae, Fabaceae (Leguminosae), Apiaceae (Umbelliferae), Lamiaceae (Labiatae), Solanaceae, Geraniaceae, Chenopodiaceae, Polygonaceae, Scrophulariaceae, Euphorbiaceae, Rhamnaceae, Celastraceae, Fagaceae, Moraceae, Platanaceae, Corylaceae, Juglandaceae, Ulmaceae, Liliaceae, Poaceae, Orchidaceae etc.
+        O fantana in stil moldovenesc, o microexpoziţie de lemne fosilizate, precum si o serie de panouri ilustrative ale lumii animale din Grădina Botanică, imbogatesc zestrea culturala şi stiintifica a sectiei Sistematice.
+        
+        Prin tematica sa, aceasta sectie se adreseaza indeosebi elevilor si studentilor, carora le ofera cadrul viu necesar intelegerii unitatii si diversitatii lumii vegetale, indrumandu-i astfel sa-si formeze o conceptie stiintifica despre lume si viata.
+        ",
+        "latitude": 47.184995,
+        "longitude": 27.556345,
+        "subsections":[],
+        "images":[
+            {
+                "id": 2,
+                "url": "https://i.imgur.com/c8zOQvU.png"
+            }
+        ]
+      },
+      {
+        "id": 3,
+        "name": "Sectia Silvostepa Moldovei",
+        "locationAndSize": "Sectia Silvostepa Moldovei se gaseste in partea de nord a Gradinii Botanice, ocupand o suprafata de 13,92 hectare. Se invecineaza la sud cu sectiile Flora si Vegetatia Romaniei si Flora Globului, la nord si vest cu Ferma Agricola Copou, iar la est cu proprietati particulare.",
+        "description": "Sectia Silvostepa Moldovei urmareste conservarea in situ si ex situ a principalelor tipuri de ecosisteme din silvostepa Moldovei: natural de silvostepa, natural de mlastina (palustru) si forestier amenajat.
+        Ecosistemul natural de silvostepa, situat pe versantii paraului Podgoriilor, favorizeaza instalarea pajistilor stepice primare si secundare. Compozitia fiotocenozelor, variabila in diferite puncte, creeaza un cadru propice pentru cresterea si inmultirea unor specii de plante caracteristice (Iris brandzae, Crambe tataria, Echium rossicum, Pulsatilla vulgaris ssp. grandis, Beta trigyna, Dianthus capitatus, Artemisia austriaca, Achillea setacea, Astragalus onobrychis, Hyacinthella leucophaea, Plantago schwarzenbergiana, Rumex tuberosus ssp. tuberosus, Crocus reticulatus, Galium moldavicum, Paeonia tenuifolia, Amygdalus nana etc.).
+        Ecosistemul natural de mlastina este situat in lunca paraului Podgoriilor, acolo unde exista un exces de umiditate. Insusirile biotopului favorizeaza dezvoltarea vegetatiei higro-hidrofile, reprezentata de Phragmites communis, Typha latifolia, Typha angustifolia, Glyceria fluitans, Bolboschoenus maritimus, Carex acutiformis, Carex riparia, Epilobium palustre, Iris pseudacorus, Lytrum salicaria, Symphytum officinale, Angelica palustris etc. Speciile vegetale, instalate aici au un rol major in depoluarea apelor ce alimenteaza paraul Podgoriilor.
+        Ecosistemul forestier amenajat ocupa o parte semnificativa a teritoriului si grupeaza diverse specii lemnoase cultivate, de foioase si conifere, care au format în timp diverse tipuri de padure. Majoritatea speciilor vegetale, conservate aici ex situ (Ulmus minor, Quercus pedunculiflora, Quercus robur, Cerasus avium, Malus sylvestris, Carpinus betulus, Abies alba, Taxus baccata, Larix decidua ssp. carpatica, Pinus sylvestris, Sorbus dacica, Sorbus torminalis, Tilia tomentosa, Evonymus nana, Corylus colurna, Galanthus nivalis etc.), au rolul de stabilizare a terenurilor predispuse la alunecari si de incetinire a proceselor de eroziune.
+        Geomorfologia terenului, substratul litologic, hidrografia si solurile variate, au favorizat instalarea unei vegetatii stepice primare si secundare, precum si a animalelor caracteristice biocenozelor din cadrul unor asemenea tipuri de ecosisteme, fragmentare astazi in Moldova si, în unele cazuri, protejate ca arii naturale.
+        Compozitia fitocenozelor, variabila in diferite puncte ale ecosistemelor, creeaza un cadru propice pentru cresterea si inmultirea a peste 107 specii de pasari (Anas platyrhynchos, Ixobrychus minutus, Nycticorax nycticorax, Ciconia ciconia, Pernis apivorus, Falco columbarius, Larus minutus, Picus canus, Lanius collurio, Bombycilla garrulus, Erithacus rubecula, Emberiza hortulana etc.) reptile (Lacerta viridis, Lacerta agilis, Emys orbicularis, Natrix natrix), amfibieni (Bombina bombina, Hyla arborea, Triturus cristatus, Triturus vulgaris si complexul Rana sp.) mamifere (Erinaceus europaeus, Talpa europaea, Lepus europaeus, Sciurus vulgaris, Apodemus agrarius etc.).
+        Aflandu-se intr-o continua transformare sub incidenta factorilor naturali si antropici, sectia are ca scop protectia ecosistemelor prezente, prin actiuni de conservare si mentinere a aspectelor semnificative sau caracteristice peisajului existent, derivate din configuratia naturala si de interventie umana, in decursul timpului.
+        Prin aceasta sectie, Gradina Botanica din Iasi, adera la o serie de instrumente de referinta din domeniul planificarii spatiale si a mediului înconjurator, în vederea respectarii politicilor si strategiilor de dezvoltare a peisajului: Directiva Habitate 92/43/EEC, anexele ll b, IV b si V b, GRL - Lista Rosie Globala, WLT – Lista rosie mondiala a speciilor de arbori si Listele Rosii ale Plantelor Superioare din Romania, Cartea rosie a plantelor vasculare din Romania, Legea nr. 24/2007 privind Reglementarea si Administrarea Spatiilor Verzi din Zonele Urbane completata cu Legea 393/2009, Directiva Pasari 79/409/EEC, Ordonanta de urgenta nr. 57/2007 privind regimul ariilor naturale protejate, conservarea habitatelor naturale, a florei si faunei salbatice.
+        Valoarea stiintifica este amplificata si de realizarea unui culoar de legatura intre cea mai apropiata rezervatie naturala – Valea lui David si sectia Silvostepa Moldovei din Gradina Botanica Iasi, asa cum se stipuleaza în legislatia europeana pentru conservarea speciilor de plante, animale si habitate naturale (Reteaua Natura 2000).",
+        "latitude": 47.189887,
+        "longitude": 27.550012,
+        "subsections":[],
+        "images":[
+            {
+                "id": 3,
+                "url": "https://i.imgur.com/t6kjWiK.png"
+            }
+        ]
+      },
+      {
+        "id": 4,
+        "name": "Secția Plante Utile",
+        "locationAndSize": "Secția ocupă o suprafață de 1,5 ha și este situată pe platoul central al Grădinii Botanice, fiind învecinată la Nord-Est cu Secția Sistematică, la Vest cu Secția Biologică, la Sud cu Secția Dendrarium, iar la Sud-Est cu Secția Rosarium.", 
+        "description": "Secția ocupă o suprafață de 1,5 ha și este situată pe platoul central al Grădinii Botanice, fiind învecinată la Nord-Est cu Secția Sistematică, la Vest cu Secția Biologică, la Sud cu Secția Dendrarium, iar la Sud-Est cu Secția Rosarium.",
+        "latitude": 47.184724,
+        "longitude": 27.554210,
+        "subsections":[
+            {
+                "id": 1,
+                "name": "Subsecția plantelor utilizate în industria alimentară",
+                "description": "Cuprinde taxoni sunt utilizați de om ca resursă de hrană, specii spontane și cultivate, de la care pot fi consumate rădăcinile, tulpinile, frunzele, fructele sau semințele, sau care pot fi prelucrate în vederea obținerii de produse vegetale: grâu (Triticum dicoccum, T. monococcum, T. aestivum), porumbul (Zea mays), mazăre (Pisum sativum), năut (Cicer arietinum), lintea (Lens culinaris), soia (Glycine max), in (Linum usitatissimum), cartof (Solanum tuberosum), tomate (Solanum lycopersicum), ardei (Capsicum annuum), fasole (Phaseolus vulgaris), dovleac (Cucurbita pepo), spanacul (Spinacia oleracea), praz (Allium ampeloprasum), varză (Brassica oleracea), pătrunjel (Petroselinum crispum). "
+            },
+            {
+                "id": 2,
+                "name": "2.	Subsecția plantelor medicinale",
+                "description": "Cuprinde colecții de plante grupate în funcție de organul sau sistemele de organe asupra cărora acestea prezintă acțiune terapeutică:
+
+                -	Colecția plantelor utilizate în afecțiuni ale inimii și sistemului circulator: usturoi (Allium sativum), tei argintiu (Tilia tomentosa), degetar (Digitalis purpurea), lăcrămioare (Convallaria majalis), talpa gâștii (Leonurus cardiaca), sunătoare (Hypericum perforatum), anghinare (Cynara scolymus), isop mare (Agastache foeniculum);
+                -	Colecția plantelor utilizate în afecțiuni ale sistemului digestiv: armurariu (Silybum marianum), pelin (Artemisia absinthium), cicoare (Cichorium intybus), păpădie (Taraxacum officinale), coada șoricelului (Achillea millefolium), gențiană (Gentiana lutea), gălbenele (Calendula officinalis), fenicul (Foeniculum vulgare), mărar (Anethum graveolens), chimen (Carum carvi), roiniță (Melissa officinalis).;
+                -	Colecția plantelor utilizate în afecțiuni ale sistemului nervos: hamei (Humulus lupulus), lavandă (Lavandula angustifolia), mușețel (Matricaria chamomilla), sunătoare (Hypericum perforatum), valeriană (Valeriana officinalis), tei pucios (Tilia cordata), păducel (Crataegus monogyna), iederă (Hedera helix), mac (Papaver somniferum);
+                -	Colecția plantelor utilizate în afecțiuni ale sistemului respirator: pătlagină îngustă (Plantago lanceolata), scaiul vântului (Eryngium campestre), cimbrișor (Thymus serpyllum), pin (Pinus sylvestris), brad (Abies alba) nalbă mare (Althaea officinalis), ciuboțica cucului (Primula veris), plămânărică (Pulmonaria officinalis), ventrilică (Veronica officinalis), toporași (Viola odorata), isop (Hyssopus officinalis), urzică moartă (Lamium album).
+                -	Colecția plantelor utilizate în afecțiuni ale sistemului urinar: coada calului (Equisetum arvense), porumb (Zea mays), mărgelușe (Lithospermum officinale), urzică (Urtica dioica), luminoasă (Clematis recta), ghimpe (Ruscus aculeatus), păpălău (Physalis alkekengi), păpădie (Taraxacum officinale), pătrunjel (Petroselinum crispum).
+                "
+            },
+            {
+                "id": 3,
+                "name": "Subsecția plantelor aromatice și condimentare",
+                "description": "Cuprinde specii care sintetizează uleiuri esențiale, care pot fi valorificate cu succes în industria cosmetică și parfumerie, industria alimentară și industria farmaceutică: mentă (Mentha x piperita), levănțică (Lavandula angustifolia), cimbru de grădină (Satureja hortensis), busuioc (Ocimum basilicum), măghiran (Origanum majorana), rozmarin (Rosmarinus officinalis), mărar (Anethum graveolens), pătrunjel (Petroselinum crispum), coriandru (Coriandrum sativum), salvie (Salvia officinalis), fenicul (Foeniculum vulgare), tarhon (Artemisia dracunculus)."
+            },
+            {
+                "id": 4,
+                "name": "Subsecția plantelor furajere și melifere",
+                "description": "Cuprinde specii care sunt utilizate ca hrană pentru animale, asigurând obținerea de produse animaliere calitative. Colecția plantelor furajere include specii precum: secară (Secale cereale), orz (Hordeum vulgare), ovăz (Avena sativa), lucernă (Medicago sativa), sfeclă (Beta vulgaris), topinambur (Helianthus tuberosus). Colecția plantelor melifere include specii precum: salcâm (Robinia pseudoacacia), tei pucios (Tilia cordata), roiniță (Melissa officinalis), limba mielului (Borago officinalis), coriandru (Coriandrum sativum), cătușnică (Nepeta cataria), menta de munte (Clinopodium nepeta)."
+            },
+            {
+                "id": 5,
+                "name": "Subsecția plantelor rezinifere și cauciucofere",
+                "description": "Cuprinde specii care sintetizează metaboliți secundari de tipul rășinilor: pin (Pinus sylvestris), brad (Abies alba), molid (Picea abies), cânepă (Cannabis sativa), hamei (Humulus lupulus), respectiv de tipul latexurilor (care sunt utilizați pentru obținerea cauciucului): smochin (Ficus carica), arborele de gutapercă (Eucommia ulmoides), floare de ceară (Asclepias syriaca), dud alb (Morus alba), ai de pădure (Asphodeline lutea), rostopască (Chelidonium majus)."
+            },
+            {
+                "id": 6,
+                "name": "Subsecția plantelor tanante și tinctoriale",
+                "description": "Cuprinde specii care sintetizează metaboliți secundari de tipul taninurilor (utilizate pentru tăbăcirea pieilor brute): stejar (Quercus robur), castan comestibil (Castanea sativa), molid (Picea abies), salcie (Salix alba) și respectiv a substanțelor care reprezintă o sursă importantă de coloranți naturali: morcov (Daucus carota ssp. sativus), floare de perină (Cota tinctoria), șofrănel (Carthamus tinctorius), fenicul (Foeniculum vulgare), ceapă (Allium cepa), nuc (Juglans regia), cârmâz (Phytolacca americana), roibă (Rubia tinctorum), alcana (Alkanna tinctoria), drobușor (Isatis tinctoria)."
+            },
+            {
+                "id": 7,
+                "name": "Subsecția plantelor utilizate în igiena orală",
+                "description": "Cuprinde specii care incluse în preparate de tipul pastelor de dinți, apă de gură, spray-urilor și infuziilor destinate menținerii sănătății cavității bucale: pătlagină (Plantago major), rozmarin (Rosmarinus officinalis), salvie (Salvia officinalis), busuioc (Ocimum basilicum), mentă (Mentha x piperita), pătrunjel (Petroselinum crispum), iarbă de dinți (Acmella oleracea), crețișoară (Alchemilla vulgaris), ardei iute (Capsicum annuum), coada șoricelului (Achillea millefolium), ceapă (Allium cepa), usturoi (Allium sativum), sunătoare (Hypericum perforatum), turiță mare (Agrimonia eupatoria)."
+            },
+            {
+                "id": 8,
+                "name": "Subsecția plantelor utilizate pentru întreținerea organelor de simț",
+                "description": "Cuprinde specii care sintetizează principii active utilizate în menținerea sănătății ochilor: crăițe (Tagetes erecta), morcov (Daucus carota ssp. sativus), dovleac (Cucurbita pepo), a pielii: gălbenele (Calendula officinalis), sunătoare (Hypericum perforatum), tătăneasă (Symphytum officinale), arnică (Arnica montana), vindecea (Stachys officinalis), a nasului: busuioc (Ocimum basilicum), mentă (Mentha x piperita), cimbru (Thymus vulgaris), levănțică (Lavandula angustifolia), pin (Pinus sylvestris) și urechii: floarea soarelui (Helianthus annuus), mușețel (Matricaria chamomilla), gălbenele (Calendula officinalis)."
+            },
+            {
+                "id": 9,
+                "name": "Subsecția plantelor toxice",
+                "description": "Cuprinde specii care sintetizează compuși chimici care sunt toxici pentru om și animale, dar care, la recomandarea și sub atenta supraveghere a medicului, pot avea proprietăți terapeutice valoroase: tisă (Taxus baccata), mătrăgună (Atropa belladonna), mutulică (Scopolia carniolica), măselariță (Hyoscyamus niger), ciumăfaie (Datura stramonium), cânepa codrului (Eupatorium cannabinum), cucută (Conium maculatum)."
+            }
+        ],
+        "images":[
+            {
+                "id": 4,
+                "url": "https://i.imgur.com/k6iw35M.png"
+            }
+        ]
+      },
+      {
+        "id": 5,
+        "name": "Sectia Ornamentala",
+        "locationAndSize": "Sectia Ornamentala este amenajata la intrarea principala in Gradina Botanica, in zona pavilionului administrativ si a Complexului de sere. Ca suprafata, sectia dispune de 4 ha de teren si de 400 m² de sera, precum si 72,60 m² suprafata tratata ca solar, destinata colectiilor de plante care necesita pentru cultivare spatii protejate, dar si pentru cultura la sol a unor specii de plante utilizate ca flori taiate pe tot parcursul anului. 
+        Aceasta sectie reprezintă o subunitate a Grădinii Botanice care vine în întâmpinarea publicului larg prin diversitatea, densitatea și modul de expunere a unor specii de plante cu valoare ornamentală si se prezinta ca expozitie cu caracter permanent, îndeplinind astfel în principal rolul recreativ-cultural ca element fundamental care a stat la baza întemeierii Grădinii botanice.",
+        "description": "Grupate în colectii, genurile Tulipa, Narcissus, Crocus, Hyacinthus, Muscari, sunt prezentate în spaţiile tranzitorii ale secţiei, acestea oferind o gamă coloristică foarte variată și trecând prin tot spectrul, devin o adevărată expoziţie de culoare. În ultimii 10 ani, aceste genuri au dobândit o reală importantă datorită diversitătii soiurilor introduse în cultură în spatiile destinate sectiei ornamentale.
+        Parterul central al Gradinii Botanice este amenajat cu garduri vii de cimisir (Buxus sempervirens), platbande cu trandafiri si arabescuri realizate din Buxus si Taxus baccata (tisa), zona care se continua in acelasi stil peisagist si catre Sectia Biologica.
+        In fata cladirii pavilionului se afla piateta "Dr. Anastasie Fatu" in mijlocul careia se afla bustul primului director al Gradinii Botanice din Iasi, creatie a artistului emerit Eftimie Birleanu. Pe parcursul anului acest spatiu este amenajat cu specii si soiuri de plante anuale decorative prin flori, frunze sau port, functie de oferta floristica sezoniera.
+        În sectia Ornamentala sunt pusi în evidentă arborii si arbustii decorativi prin habitus si frunzis, această sectie a Grădinii botanice detinând diferite varietăti decorative ale unor taxoni ca: artarul american (Acer negundo 'Variegatum'), paltinul de câmp, (Acer platanoides 'Globossum'), paltinul de munte (Acer pseudoplatanus 'Purpureum'), corcodusul (Prunus cerasifera 'Pissardi'), ulmul pletos (Ulmus glabra 'Pendula'), dudul negru (Morus nigra 'Pendula'), otetarul rosu (Rhus typhina 'Dissecta'), salcâmul japonez (Styphnolobium japonicum 'Pendula'), arborele de fier (Parrotia persica).
+        Pe aleea care separa Sectia Ornamentala de cea Fitogeografica sunt cultivate specii de gladiole si bujori. Bujorii sunt printre cele mai populare plante care se remarcă în luna mai. Plante rustice, acestia atrag atentia prin forma tufelor care poate fi arbustivă la speciile: Paeonia delavayi, respectiv Paeonia × suffruticosa, a frunzelor si florilor la specia P. tenuifolia sau prin florile deosebite ale numeroaselor varietăti horticole ale speciei P. officinalis.
+        Sezonul estival reuneste colectii impresionante de dalii (Dahlia sp.), gladiole (Gladiolus sp.), crini de toamnă (Hosta sp.), crini sălbatici sau crinii de o zi (Hemerocallis sp.).
+        Originare din Mexic, daliile sunt apreciate pentru înflorirea lor abundentă pe tot parcursul verii până toamna târziu. Florile sunt grupate în calatidii simple sau involte si au culori si forme foarte variate. Soiurile cultivate în prezent în Grădina Botanică provin din speciile Dahlia variabilis, D. coccinea, D. merkii si sunt grupate după forma ligulelor si a inflorescentelor.
+        O modalitate prin care Grădina Botanică din Iasi aduce în prim-plan cele două funcţii importante – cea culturală si recreativă – o reprezintă formele topiare, iar Grădina Botanică detine experientă în practicarea artei topiare, aspect demonstrat de formele si parterele existente în cadrul Sectiei ornamentale.
+        Toamna tarziu, pe aleea principala, in fata sectorului administrativ si in Complexul expozitional, cu ocazia organizarii expozitiilor anuale, sunt prezentate soiuri de crizanteme cultivate in forma de cascada, piramida, pom, tufis, forme expuse pentru prima data in Romania, la Gradina Botanica din Iasi.
+        Speciile și varietătile horticole ale genului Chrysanthemum sunt reprezentate la Gradina Botabnica din Iași printr-un număr de peste 400 de taxoni, grupati într-o colectie unicat în România ca mărime, valoare stiintifică si mod de prezentare, fiind accesibilă atât publicului larg, cât si specialistilor. Colectia de crizanteme pentru floare taiata (Chrysanthemum  grandiflorum) a Grădinii Botanice din Iasi grupează peste 200 de soiuri, inclusiv unele dintre primele cultivaruri introduse în România. Dintre soiurile mentinute în colectie, 32 de soiuri au fost selectate si obtinute în cadrul Grădinii Botanice din Iasi: ex. 'Andra', 'Asfintit', 'Carmen', 'Domnița Noptii', 'Gloria', 'Mary', 'Zarea'. În ultimii ani o atentie specială s-a acordat si colectiei de tufănele (Chrysanthemum indicum) care reuneste 200 de soiuri, dintre care 27 au fost obtinute prin munca de selectie si eforturile susținute ale cercetătorilor si biologilor din această institusie. Pe lângă soiurile românesti, se mentin în colectia de tufănele si alte soiuri cu deosebită valoare decorativă, sursă principală pentru amenajarea spatiilor exterioare ale Sectiei Ornamentale si pentru prezentarea acestora în forme inedite în cadrul expozitiilor tematice de toamnă.
+        Tematica Sectiei Ornamentale este axata pe: 
+        1. Conservarea fondului de plante al sectorului in cadrul unor colectii cu valoare stiintifica si estetica. 
+        2. Introducerea, inmultirea si pastrarea fondului genetic de plante ornamentale din flora spontana a Romaniei.
+        3. Prezentarea de plante perene, indigene si exotice, cu perioade diferite de inflorire.",
+        "latitude": 47.186838,
+        "longitude": 27.556647,
+        "subsections":[
+            {
+                "id": 10,
+                "name": "Subsectia pentru nevazatori",
+                "description": "Grădina Botanică din Iasi a înfiintat în anul 1991, în cadrul sectiei Ornamentale o subsectie pentru nevăzători în scopul de a oferi posibilitatea persoanelor cu dizabilităti de vedere să descopere olfactiv si tactil diferite specii de plante. Această subsectie o fost reorganizată si extinsă în anul 2008, odată cu înfiintarea unei alei destinate persoanelor cu dizabilităti de vedere. 
+                Colectiile acestei subsectii grupează în principal plante medicinale, aromatice, condimentare sau ornamentale puternic parfumate, care pot fi recunoscute de persoanele cu deficiente de vedere datorită mirosului deosebit si senzaţiilor pe care le creează la atingere. Toate speciile de plante expuse în această subsectie sunt cultivate în ghivece individuale si plasate pe un soclu de lemn, la o înăltime accesibilă tuturor vizitatorilor si sunt însotite de etichete speciale care oferă informatii referitoare la familia din care face parte specia expusă, denumirea stiintifică si populară a acesteia, utilizarea generală si originea geografică, informatii prezentate în alfabetul latin si în cel Braille. 
+                Plantele expuse sunt selectate în functie de o serie de aspecte precum: prezenta la nivelul organelor vegetative a perilor aspri sau foarte fini, talia plantei (exemplare înalte sau pitice, solitare sau care formează mici tufe), prezenta perilor secretori cu rol în secretia unor compusi volatili. Astfel, persoanele cu dizabilităti de vedere se pot bucura de mirosul deosebit al unor specii din colectia de plante medicinale, care au utilizări variate, atât în medicina naturistă, cât si ca plante condimentare si aromatice: busuioc (Ocimum basilicum), mentă (Mentha viridis), levăntică (Lavandula angustifolia), floare de perină (Anthemis tinctoria), pelin (Artemisia absinthium), isop (Hyssopus officinalis), salvie (Salvia officinalis), vindecea (Stachys officinalis), rozmarin (Rosmarinus officinalis), cimbru de grădină (Satureja hortensis), sovârf (Origanum vulgaris), menta pisicii (Nepeta mussinii), echinacea (Echinacea purpurea), gălbenele (Calendula officinalis), condurasi (Tropaeolum majus). 
+                Speciile de plante expuse variază în functie de sezon si surprind cel mai bine caracteristicile anotimpului respectiv. Astfel, primăvara si vara domină speciile anuale cu miros deosebit care fac parte din colectiile de plante ornamentale si medicinale ale subsectiei: crăite (Tagetes patula), lămâită (Melissa officinalis), muscata (Pelargonium zonale), salvie (Salvia lavandulifolia), coada soricelului (Achillea millefolium), lemnul Maicii Domnului (Santolina chamaecyparissus), Agastache mexicana, A. foeniculum, Monarda citriodora, Iberis odorata, Cerastium tomentosum."
+            }
+        ],
+        "images":[
+            {
+                "id": 5,
+                "url": "https://i.imgur.com/ZzrrI4S.png"
+            }
+        ]
+      },
+      {
+        "id": 6,
+        "name": "Sectia Flora si Vegetatia Romaniei",
+        "locationAndSize": "Ocupand 22 ha, reprezinta sectia cu cea mai mare intindere pe teritoriul Gradinii Botanice "A. Fatu" Iasi.",
+        "description": "Principiul de baza este cel al reprezentarii pe verticala a principalelor zone si etaje de vegetatie din tara noastra (favorizata de formele de relief naturale existente), iar pe orizontala a florei si vegetatiei specifice fiecarei provincii istorice a Romaniei. Un alt principiu este cel al conservarii prin cultura a unui fond genetic vegetal cat mai variat din flora tarii noastre (popularea acestei sectii se realizeaza cu material autentic, colectat din flora spontana a tinuturilor respective).
+        Centrul sectiei Flora si vegetatia Romaniei este ocupat de un lac de acumulare cu o suprafata de 2,1 ha care adaposteste, printre numeroase specii iubitoare de multa umiditate, si nuferi galbeni (Nuphar luteum). In afara acestui teren, sectia mai dispune de aproximativ 100 m² de precultivare, unde este obtinut din seminte material botanic, in special taxoni endemici, rari sau amenintati: Astragalus roemeri, Dianthus spiculifolius, Allium obliquum, Cerastium transsilvanicum etc.",
+        "latitude": 47.185812,
+        "longitude": 27.549801,
+        "subsections":[
+            {
+                "id": 11,
+                "name": "Moldova",
+                "description": "Vegetatia forestiera este reprezentata prin paduri rare de stejar brumariu (Quercus pedunculiflora) si stejar pufos (Quercus pubescens) cu tufe de bujor romanesc salbatic (Paeonia peregrina), alaturi de un stejaris mixt format din stejar si gorun (Quercetum robori - petraeae) si un frumos faget (Galio schultesii - Fagetum), deasupra caruia sunt reprezentate padurile de conifere montane, mixte (fag si brad - Pulmonario rubrae - Fagetum) si pure (Hieracio transsilvanici - Piceetum) aceasta din urma adapostind in partea sa nordica cateva exemplare de jneapan (Pinus mugo) si zambru (Pinus cembra) specifice etajului subalpin. Pajistile imbina fragmente din vegetatia spontana existenta anterior infiintarii gradinii botanice cu fragmente amenajate in care sunt diseminate palcuri de visinel (Cerasus fruticosa), migdal pitic (Amygdalus nana) sau caragana (Caragana frutex var. mollis). Suprafete reduse prezinta cateva zone cu saraturi de coasta unde cresc pelinita de saratura (Artemisia santonica), inchegatoarea (Limonium gmelinii) etc."
+            },
+            {
+                "id": 12,
+                "name": "Transilvania",
+                "description": "Reprezentata prin padurile de cer (Quercus cerris) si garnita (Quercus frainetto) cu flora ierboasa caracteristica, la marginea carora se afla cateva tufe de liliac transilvanean (Syringa josikaea). Etajarea vegetatiei continua cu un stejaris in amestec cu carpen (Querco robori - Carpinetum), urmata de un faget cu carpen (Carpino - Fagetum) despartite printr-o poiana larga de un molidis (Hieracio transsilvanici - Piceetum) si un palc de zada (Larix decidua ssp. carpatica). O turbarie amenajata permite cultivarea unor specii rare: salcia taratoare (Salix rosmarinifolia), Angelica palustris etc."
+            },
+            {
+                "id": 13,
+                "name": "Banat",
+                "description": "Reprezentat printr-un monticol seminatural imbracat in stanci de calcar ce reda o imagine in miniatura a muntelui Domogled, pe care sunt plantate specii caracteristice zonei: pinul de Banat (Pinus nigra ssp. banatica), alunul turcesc (Corylus colurna), liliacul (Syringa vulgaris), jugastrul banatean (Acer monspessulanum), diverse specii de scorus (Sorbus dacica, S. borbasii), iris (Iris variegata), drobul (Chamaecytisus ratisbonensis) etc. Sub scutul protector al padurii s-au adaptat ghimpele (Ruscus aculeatus si R. hypoglossum) si smochinul (Ficus carica)."
+            },
+            {
+                "id": 14,
+                "name": "Muntenia",
+                "description": "Principalele formatiuni vegetale din aceasta provincie sunt redate altitudinal de la baza versantului spre varf prin paduri de stejar (Quercus robur), apoi de gorun (Quercus petraea), de fag (Fagus sylvatica), iar in partea cea mai inalta grupuri de conifere alcatuite din pin (Pinus sylvestris) si molid (Picea abies) in amestec cu mesteacan (Betula pendula)."
+            },
+            {
+                "id": 15,
+                "name": "Oltenia",
+                "description": "Reprezentata de o padure de cer (Quercus cerris) si garnita (Quercus frainetto) unde in stratul ierbos se gasesc spanzul (Helleborus odorus) si untul pamantului (Tamus communis), iar in partea superioara a versantului, cateva grupuri de liliac (Syringa vulgaris) in amestec cu carpinita (Carpinus orientalis) si mojdrean (Fraxinus ornus) redau aspecte din vegetatia acestei provincii."
+            },
+            {
+                "id": 16,
+                "name": "Dobrogea",
+                "description": "Cuprinde elemente caracteristice Deltei Dunarii (reprezentata schematic prin cele 3 brate amenajate ale Paraului Podgoriei) cu flora preponderent acvatica si palustra - palcuri de stuf (Phragmites australis) si papura (Typha latifolia, Typha angustifolia) si grupuri de plop alb (Populus alba), stejar brumariu (Quercus pedunculiflora), frasin paros (Fraxinus pallisae), frasin de lunca (Fraxinus angustifolia) cu periploca (Periploca graeca) si vita salbatica (Vitis sylvestris) specifice padurilor de pe grindurile deltei. Zona forestiera a Dobrogei este reprezentata prin padurile de goruni (Quercus dalechampii, Q. policarpa) cu mojdrean (Fraxinus ornus) si tei alb (Tilia tomentosa), urmate de palcuri de stejar pufos (Quercus pubescens), stejar brumariu (Quercus pedunculiflora) si amestecuri de carpinita (Carpinus orientalis) si mojdrean (Fraxinus ornus). O caracteristica aparte a provinciei dobrogene o reprezinta tufisurile cu arbusti spinosi, greu de strabatut, cunoscute sub numele de "sibliac" formate din spinul lui Christos (Paliurus spina-christi), iasomie cu flori galbene (Jasminum fruticans), dracila (Berberis vulgaris), paducel (Crataegus monogyna) s.a."
+            }
+        ],
+        "images":[
+            {
+                "id": 6,
+                "url": "https://i.imgur.com/pLsWxkR.png"
+            }
+        ]
+      },
+      {
+        "id": 7,
+        "name": "Sectia Fitogeografica",
+        "locationAndSize": "Sectia Fitogeografica este amplasata in partea de nord-vest a Gradinii Botanice, ocupand o suprafata de 12,41 ha. Terenul prezinta o portiune de platou si un versant cu panta accentuata  supus  alunecarilor active. Plantele din sectie au fost grupate dupa locul de origine si sunt dispuse conform stilurilor peisajer (natural) si mixt.",
+        "description": "Intrarea in sectie se face in apropierea unei stancarii (600 m²) cu plante suculente din deserturile mexicane, majoritatea apartinand familiilor Agavaceae, Cactaceae si Crassulaceae. Aceste plante, cu tulpini sau frunze suculente, sunt adapostite peste iarna in interior.
+        In fata stancariei un "ceas solar" are marcate orele prin 12 trovanti (sfere de gresie) adusi de pe Dealul Feleacului. In mijlocul "ceasului" un trovant mai mare, simbolizand globul pamantesc, isi trimite umbra la fiecare ora din zi pe trovantul corespunzator orei respective. In vecinatatea stancariei se etaleaza culorile vii, diverse, ale plantelor din America Centrala si de Sud si din Africa, cultivate in clima noastra ca plante anuale: Ageratum (pufuleti), Cosmos, Eschscholtzia (mac de California), , Portulaca, Mirabilis, Agastache, Zinnia, Tagetes, Argemone, Cuphea, Gomphrena, Gazania Dimorphoteca, etc. 
+        Specii ale florei Europei Centrale si Nordice sunt reprezentanti fie ai padurilor boreale de conifere (pin, molid, larita, ienupar), fie ai padurilor de foioase (fag, stejar, carpen, alun). Alaturi de cateva specii ierboase, arborii sunt grupati in apropierea unei stancarii denumite Alpinariu. Acest mediu ecologic este amenajat cu stanci calcaroase, pe un teren in panta, in suprafata de 2000 m² si adaposteste plante din muntii Europei ca Achillea ptarmica, Dianthus barbatus, Alyssum argenteum, Scutellaria alpina, Ribes alpinum, Spiraea chamaedryfolia,  printre care si o specie rara Horminum pyrenaicum.. 
+        Elementele stepei ponto-panonice sunt grupate pe un teren arid si insorit, pe o suprafata de circa 2 ha acoperita de vegetatie naturala, pastrata si conservata inca de la inceputul organizarii Gradinii: Prunus fruticosa (visinel), Rosa gallica (rasura), Adonis vernalis (ruscuta de primavara), Pulsatilla pratensis subsp.nigricans (deditei), Festuca valesiaca, Koeleria macrantha, etc. 
+        Dintre plantele caracteristice florei Turkestanului vegeteaza bine Ulmus pumila var. arborea (ulmul de Turkestan), Malus sieversii (foarte decorativ prin frunzele si florile de un rosu-violet intens), Exocorda korolkovii, Fraxinus sogdiana, Rhamnus dolycophylla,Lonicera korolkovii, etc. 
+        Din flora balcanica se dezvolta bine la noi Cotinus coggygria, Forsythia europaea, Laburnum anagyroides,  Corylus colurna, Acanthus balcanicus, Hypericum olympicum, Symphyandra hofmannii, Petteria ramentacea si Periploca graeca. In vecinatate sunt cultivate plante specifice bazinului mediteranean: Buxus sempervirens (cimisir), , Pyracantha coccinea, Platanus acerifolia, Ruta graveolens, unele elemente mediteraneene gasindu-se si in flora spontana din sudul si sud-vestul tarii noastre: Acer monspessulanum (jugastru de Banat), Carpinus orientalis (carpinita), Castanea sativa (castan comestibil), etc. 
+        Coborand Aleea Podgoriilor, pe stanga, se intalnesc plante caracteristice Siberiei.: Caragana arborescens, Acer tataricum var. ginnala, Juglans mandshurica si Menispermum dauricum, Berberis amurensis, etc.
+        Reprezentanti ai florei Caucazului sunt grupati dupa originea lor: paduri caucaziene (Abies nordmanniana, Picea orientalis, Celtis caucasica, Acer opalus, Tilia rubra), elemente colchidice (Andrachne colchica, Dioscorea caucasica, Staphylea colchica) si plante din Muntii Caucaz (Arabis caucasica, Dianthus armeria, Doronicum orientale,Erigeron caucasicus, Erysimum perofskianum, Paeonia mlokosewitschii, Scutellaria orientalis, Sedum spurium, Silene schafta etc.) . 
+        Subsectia  Extremului Orient este organizata pe o panta cu orientare vestica. Prezenta unei parau de coasta intregeste peisajul, malurile apei fiind plantate cu bambus (Phyllostachys viridi-galucescens) si cu salcii (Salix babylonica si Salix matsudana 'Tortuosa'). Dintre plantele mai deosebite mentionam:, Akebia quinata, Broussonetia papyrifera,Tetradium danielli ( copacul de miere), Paulownia imperialis, Citrus trifoliata, Koelreuteria paniculata , Chaenomeles japonica,etc. Flora ierboasa este reprezentata de specii de Hemmerocalis, Hosta, Incarvillea etc. 
+        Flora Americii de Nord este reprezentata de specii lemnoase ( arbori si arbusti): Juniperus virginiana, Pinus strobus, Pseudotsuga menziesii, Acer saccharinum, Carpinus caroliniana, Maclura pomifera, Amorpha fruticosa, Liriodendron tulipifera , Juglans nigra, Cladrastis kentukea, Amorpha fruticosa, Cotoneaster, Crataegus , Philadelphus inodorus, Plantele ierboase sunt numeroase, majoritatea decorative: Desmanthus illinoensis, Aster sp., Coreopsis sp., Gaillardia aristata, Monarda sp., Oenothera macrocarpa, Penstemon sp., Phlox divaricata, Rudbeckia sp.,etc.",
+        "latitude": 47.188689,
+        "longitude": 27.552860,
+        "subsections":[],
+        "images":[
+            {
+                "id": 7,
+                "url": "https://i.imgur.com/8NEBxB7.png"
+            }
+        ]
+      },
+      {
+        "id": 8,
+        "name": "Sectia Dendrarium",
+        "locationAndSize": "Sectia Dendrarium este amplasata in extremitatea sudica a Gradinii Botanice, pe un versant cu expozitie generala vestica si o inclinare medie de 7-8 grade.
+        Suprafata acestei sectii este de 17,9 ha.",
+        "description": "Colectiile de arbori si arbusti au fost grupate pe genuri si in functie de cerintele ecologice ale plantelor, urmarindu-se valorificarea potentialului stational local. In amenajarea sectiei s-a folosit stilul mixt, cu inclinatie spre cel peisager. La contact cu orasul, sectia este protejata de o perdea perimetrala arborescenta alcatuita, preponderent, din specii indigene rustice care au coronament des. Dendrarium-ul are o forma oarecum dreptunghiulara si prezinta o axa de simetrie orientata nord-sud ce marcheaza limita dintre subsectiile Gymnospermae si Angiospermae. Aleile pietonale, mai inguste, intersecteaza din loc in loc axa de simetrie si fac legatura cu toate punctele din sectie, inclusiv cu cele perimetrale.
+        Plantatiile cu rol predominant ameliorativ ocupa 33% din suprafata si sunt alcatuite din salcioara (Eleagnus angustifolia), plop alb (Populus alba), jugastru (Acer campestre), amorfa (Amorpha fruticosa), jugastru (Acer campestre), caprifoi tatarasc (Lonicera tatarica) si hurmuz (Symphoricarpos albus).
+        Plantatiile cu rol predominant de fixare a solului ocupa 2% din suprafata sectiei fiind amplasate pe portiunile de teren cu alunecari evidente si includ specii a caror sistem radicular este profund: stejarul (Quercus robur), nucul comun (Juglans regia) si nucul negru (Juglans nigra).
+        Plantatiile cu importanta ornamentala ocupa 9% din suprafata si sunt reprezentate prin grupuri de conifere: Pinus strobus (pinul strob), Picea pungens 'Argentea' (molidul argintiu), Thuja occidentalis 'Fastigiata' (tuia), Juniperus virginiana (ienuparul de Virginia), Juniperus communis 'Hibernica' (ienupar), Juniperus horizontalis (ienuparul orizontal), Pinus nigra var. nigra (pinul negru) etc.
+        Restul suprafetei sectiei este ocupata de colectii constituite pe genuri si in functie de cerintele ecologice ale plantelor. In apropierea intrarii din strada Munteni sunt intalnite colectiile de salcii (Salix alba, Salix babylonica, Salix fragilis etc.), plopi (Populus nigra, Populus alba, Populus tremula etc.), catina rosie (Tamarix ramosissima) si catina alba (Hippophae rhamnoides), apoi speciile de liliac (Syringa amurensis, Syringa villosa etc.).
+        In continuare pe acest traseu intalnim o piateta de unde se poate merge pe aleile cornilor (Cornus hemsleyi, Cornus torreyi, Cornus carlesi etc.), a artarilor si paltinilor (Acer pseudoplatanus 'Purpureum', Acer pseudoplatanus 'Cuculatum', Acer majalis etc.), a stejarilor (Quercus robur, Quercus rubra, Quercus cerris etc.), a colectiei de dracila (Berberis sibirica, Berberis thunbergii, Berberis julianae etc.), de carpen (Carpinus betulus si Carpinus orientalis), de aluni (Corylus colurna, Corylus avellana si Corylus maxima).
+        In jumatatea nordica a sectiei se mai afla colectiile de sorb (Sorbus aucuparia, Sorbus torminalis, Sorbus domestica f. pyriformis etc.), cotoneaster (Cotoneaster horizontalis, Cotoneaster microphyllus etc.), si de frasin (Fraxinus ornus, Fraxinus excelsior, Fraxinus pallisiae etc.). Colectia de Gymnospermae cuprinde soiuri si specii ale genurilor Abies, Chamaecyparis, Ginkgo, Juniperus, Taxus, Thuja, Picea, Pinus si Pseudotsuga.
+        Pentru asigurarea gradinii cu material saditor necesar imbogatirii colectiilor de plante, sectia Dendrarium dispune de o pepiniera impartita in :
+        •	parcela de inmultire pe cale sexuata a plantelor, germinarea semintelor facandu-se atat in ghivece, cat si la straturi;
+        •	parcela de multiplicare pe cale asexuata (vegetativa), prin butasire, marcotaj si altoire;
+        •	parcela de repicaje, unde puietii sunt cultivati pana in momentul transplantarii lor la loc definitiv.",
+        "latitude": 47.182409,
+        "longitude": 27.551870,
+        "subsections":[],
+        "images":[
+            {
+                "id": 8,
+                "url": "https://i.imgur.com/atrvOfD.png"
+            }
+        ]
+      },
+      {
+        "id": 9,
+        "name": "Sectia Biologica",
+        "locationAndSize": "Sectia Biologica prezintă unele aspecte ale diversităţii plantelor, trăsături fundamentale ale materiei vii (structură şi funcţii), evoluţiei (dovezi şi mecanisme), ca şi rolul omului în cursul proceselor ecologice şi evolutive. Secţia este amplasată în partea centrală a Grădinii Botanice şi dispune de o suprafaţă de 5,27 ha.",
+        "description": "La intrarea in sectie, strajuita de o parte si de alta de coloanele arborelui vietii (Thuja occidentalis ‘Fastigiata’), sunt amenajate doua grupuri de stancarii care prezinta unele aspecte ale evolutiei vietuitoarelor.
+        Stancaria din partea nordica a sectorului, alcatuita din calcar de la Repedea - Iasi, prezinta vizitatorului unele dovezi paleontologice ale procesului de evolutie, printr-o bogata fauna fosila, mai ales moluste, sedimentate in gresiile calcaroase de varsta sarmatianului mijlociu. In aceasta stancarie sunt prezentate aspecte ale evolutiei florii de la cea actinomorfă spre cea zigomorfă şi respectiv, de la floarea dialipetală (cu petale libere) spre gamopetală (cu petale concrescute). 
+        În secţiunea dialipetale actinomorfe sunt prezentate: Anemone hupehensis var. japonica, A sylvestris, Aster alpinus var. dolomiticus, Epimedium alpinum, Dianthus monspessulanus, D. knappii, D. spiculifolius, D. superbus, D. superbus 'Crimsonia', Potentilla rupestris, P. nepalensis, Waldsteinia geoides ş.a., în secţiunea dialipetale zigomorfe sunt expuse: specii aparţinând familiei Balsaminaceae, Consolida regalis, Coronilla vaginalis, Delphinium elatum, Dicentra spectabilis, D. torulosa, Viola labradorica, V. cornuta, V. sororia, Trifolium incarnatum, Medicago lupulina ş.a. Spre vârful stâncăriei, unde sunt cultivate specii ce au floarea cu petalele concrescute sunt prezentate în partea stângă gamopetale actinomorfe: Campanula carpatica, C. rotundifolia subsp. rotundifolia, C. poscharskyana, C. aliariifolia, C. trachelium, Lithospermum prostratum, Leontopodium alpinum, Platycodon grandiflorus, Plantago major 'Rubrifolia' ş.a., iar în partea dreaptă sunt prezentate plante ce au floarea gamopetală zigomorfă: Ajuga reptans, A. reptans 'Variegata', Antirrhinum majus, Calamintha nepeta 'Blue Cloud', Digitalis lutea, Lamium maculatum 'Silver Beacon', Linaria vulgaris, Lobelia erinus, L. siphilitica, Nepeta  faassenii 'Snowflake', Satureja caerulea, Teucrium polium, Thymus serpyllum, T. vulgaris 'Foxley', Veronica austriaca subsp. austriaca, V. Orchidea.
+        Grupul de stancării situat in apropierea axului central al Gradinii Botanice, construit din roci sedimentare provenite de la carierele Pojorata, Molid, și Vama (judetul Suceava), sunt exemplificate unele dovezi morfologice ale evolutiei plantelor: tulpini si frunze metamorfozate precum si metamorfoze progresive si regresive ale florii și o parte a alpinariumului.",
+        "latitude": 47.186071,
+        "longitude": 27.554374,
+        "subsections":[
+            {
+                "id": 17,
+                "name": "Alpinariumul",
+                "description": "Se află la limita platoului încheind axul central de compoziţie al Grădinii Botanice. Este realizat din mai multe tipuri de roci: sedimentare (gresii şi calcare, ce provin de la Pojorâta şi de la Repedea), magmatice (andezit, granit, care provin de la Molid) şi metamorfice (calcare cristaline, şisturi verzi aduse de la cariera Vama ), atât de suprafaţă, cât şi de adâncime. Aici, aleile cu tuia piramidală (Thuja occidentalis 'Fastigiata') sunt continuate de pâlcuri de pin (Pinus nigra, P. sylvestris) şi molid (Picea abies), câteva exemplare de tisă (Taxus baccata, T. baccata 'Adpressa', T. cuspidata), o colecţie de ienupăr: Juniperus communis, J. chinensis, J. horizontalis, J. horizontalis 'Glauca', J. horizontalis 'Douglasii', J. horizontalis 'Andorra Compacta', J. horizontalis 'Prostrata', J. x media 'Pfitzeriana', J. x media 'Pfitzeriana Glauca', o colecţie de cotoneaster: Cotoneaster acuminatus, C. divaricatus, C. integerrimus, C. lucidus, C. melanocarpus, C. multiflorus, C. nitens. 
+                În completarea vegetaţiei specifice unui alpinarium, actualmente plantele ierboase sunt conservate într-una din stâncăriile din stânga axului central, situată în vecinătatea Secţiei Sistematice. Aici sunt conservate o serie de plante alpine cum ar fi: Alyssum murale, A. saxatile, Campanula carpatica, C. carpatica var. turbinata, C. aliariifolia, C. portenschlagiana, C. punctata, C. punctata var. hondoensis, C. rotundifolia subsp. rotundifolia, Codonopsis clematidea, Gentiana septemfida var. lagodechiana, G. tibetica, Hutchinsia alpina, Jasione montana, Satureja montana, Silene nutans subsp. dubia, S. zawadskii, Thymus serpyllum, T. citriodorus, ş.a., iar speciile calcifile cum ar fi: Leontopodium alpinum, L. himalayanum, Dianthus spiculifolius, Satureja caerulea sau cele saxicole ca Andryala integrifolia etc. sunt prezentate într-o stâncărie învecinată în care la câteva cuiburi s-a schimbat substratul, adăugându-se dolomit sau substrat bogat în siliciu."
+            },
+            {
+                "id": 18,
+                "name": "Subsecţia Metamorfozarea organelor",
+                "description": "Este în prezent restructurată, fiindu-i atribuită doar stâncăria din vecinătatea Secţiilor Ornamentală şi Sistematică, stâncăriile învecinate sunt atribuite plantelor tipic alpine, în completarea Alpinariumului, în care s-au dezvoltat foarte mult plantele lemnoase, făcând aproape imposibilă conservarea plantelor ierboase. Astfel, colecţia de plante ce prezintă metamorfoze în diverse organe conţine câteva exemple reprezentative de bulbi tunicaţi: Anemone blanda, A. coronaria, rizomi plagiotropi A. multifida var. multifida, A. multifida var. saxicola, A. sylvestris, Geranium macrorrhizum, bulbi tunicaţi, rădăcini contractile Crocus vernus, rizomi şi respectiv, stamine transformate în carpele Helleborus foetidus, H. lividus subsp. corsicus, H. niger, H. odorus, H. purpurascens, bulbi Iris hollandica, rizomi Iris pumila, I. germanica, Paeonia tenuifolia, Pulsatilla halleri, P. montana), P. vulgaris subsp. grandis, P. vulgaris var. rubra, filocladii Ruscus aculeatus, R. hypoglossum, frunze reduse Ephedra distachya, tulpini şi frunze suculente Sedum album, S. hexangulare, S. hispanicum, S. spurium, S. spathulifolium, S. stoloniferum, S. telephium subsp. telephium, S. telephium subsp. Maximum."
+            },
+            {
+                "id": 19,
+                "name": "Subsecţia Adaptarea plantelor la polenizare",
+                "description": "Aflată în continuarea grupului de stâncării prezintă spre partea centrală a secţiei exemple ale anemofiliei (Chamaecyparis lawsoniana, C. lawsoniana 'Allumi', Juniperus virginiana 'Glauca', Taxus baccata 'Aurea', Picea orientalis, Pseudotsuga menziesii, Cotinus coggygria, Corylus avellana), iar spre periferia secţiei sunt cultivate plante entomofile la care vectorii polenizării sunt albinele (Malus sylvestris, Crataegus oxyacantha, Caryopteris x clandonensis, Helianthus annuus), bondarii (Aconitum napellus, Allium aflatunense (Foto 251), Antirrhinum majus, Centaurea stenolepis, C. moschata), viespile (Digitalis grandiflora, D. lutea, Scrophularia nodosa), fluturii (de zi: Buddleja davidii (Foto 241), Lychnis chalcedonica, Perovskia atriplicifolia sau de noapte: Mirabilis jalapa, Narcissus poeticus, Nicotiana longiflora, Oenothera biennis, Petunia violacea), muştele (Asarum europaeum, Cornus alba, Aristolochia macrophylla, Asclepias syriaca), coleopterele (Magnolia kobus, Viburnum lantana, V. rhytidophyllum), melcii (Chrysosplenium alternifolium). Tot aici sunt prezentate exemple ale mijloacelor prin care florile atrag insectele: colorit viu al pieselor florale (petalelor – Aquillegia hybrida 'Winky Double Red & White', Canna indica 'Melody', Chaenomeles japonica, Digitalis purpurea, Inula helenium, Papaver somniferum 'Danish Flag', 'Przemko'  etc., staminelor – Lilium sp., stigmatului – Ricinus communis, bracteelor inflorescenţelor – Euphorbia marginata, Salvia sclarea, Helleborus), prezenţa nectariilor (extraflorale – Impatiens balsamina, Rosa 'Alissar, Princess of Phoenicia', Prunus padus, florale – Angelica archangelica, Chaerophyllum aromaticum, Myosotis sylvatica, Papaver orientale, Berberis vulgaris, Campanula glomerata, C. trachelium), prezenţa uleiurilor volatile (Lavandula angustifolia, Melissa officinalis, Ribes aureum, Rosa agrestis), compuşi aromatici (Hypericum androsaemum, Reseda odorata) etc."
+            },
+            {
+                "id": 20,
+                "name": "Subsecţia Adaptările plantelor la răspândirea fructelor şi seminţelor",
+                "description": "Situată în continuarea subsecţiei mai sus-menţionate; aici sunt cultivate diverse plante autochore (Castanea sativa, Geranium pratense, Brassica oleracea, Ecballium elaterium, Lupinus polyphyllus, Buxus sempervirens, Plantago major 'Atropurpurea', Primula veris, Syringa vulgaris, S.  henryi, S. josikaea, S. villosa, alochore (anemochore – Digitalis purpurea, Acer pseudoplatanus, Catalpa bignonioides, Paulownia tomentosa, Fraxinus excelsior, Epilobium hirsutum, Populus nigra, zoochore epizoochore – Agrimonia eupatoria, Arctium lappa, Bidens tripartita, Galium aparine, Pulmonaria officinalis, endozoochore – Berberis vulgaris, Crataegus macrosperma, C. monogyna, Physalis alkekengi, Prunus cerasifera, ornitochore – Aronia melanocarpa, Rhamnus frangula, Rubus caesius, Viburnum opulus, Viscum album, mirmecochore – Asarum europaeum, Euphorbia lathyris, Chelidonium majus, antropochore – Agrimone eupatoria, Xanthium spinosum, Iva xanthiifolia etc.)."
+            },
+            {
+                "id": 21,
+                "name": "Subsecţia Ecologică",
+                "description": "Prezintă mostre ale vegetaţiei montane, silvostepice şi stepice. De asemenea, aici pot fi observate dovezi paleontologice ale evoluţiei lumii vii (Ephedra distachya, Ginkgo biloba, ca şi lamelibranheatul Mactra podolica impregnat în rocile ce provin de la Repedea), mecanisme ale evoluţiei vegetale prin izolare ecologică – Primula elatior, P. vulgaris, sezonală – Pinus nigra, P. sylvestris, Phlox divaricata, P. subulata, P. paniculata, mecanică – speciile genurilor Penstemon, Salvia sau prin izolare gametică – speciile genurilor Gilia, Primula, prin mutageneză (mutaţii genice naturale, numite şi variaţii mugurale – Acer negundo 'Variegatum', A. pseudoplatanus 'Purpureum', Morus alba 'Pendula', mutaţii cromozomale – Clarkia, Oenothera, Primula, Paeonia officinalis, mutaţii genomice sau speciaţia prin poliploidie – Helianthus tuberosus, dintre autopoliploizi; Nicotiana tabacum, Brassica napus, dintre alopoliploizi; Rosa canina, R. gallica, R. rubiginosa, R. multiflora, R. persica, Syringa  henryi, S. emodi, S. japonica, S. josikaea, S. julianae, S. velutina, S. villosa, S. vulgaris, S. vulgaris 'Lavender Lady', în cazul complexelor poliploide) dacă ar fi să aducem în atenţie doar câteva exemple din multiplele existente.
+                O prioritate între activităţile noastre o reprezintă conservarea ex situ a speciilor ameninţate ca urmare a activităţii umane necontrolate, dar şi a relaţiilor dintre factorii abiotici şi plante sau a interrelaţiilor între diferite specii. Speciile ameninţate care se conservă ex situ în Secţia Biologică sunt răspândite în diverse subsecţii, acolo unde mediile ecologice create sunt favorabile. Dintre speciile protejate conservate aici amintim: Acanthus balcanicus, Adonis vernalis, Allium flavum subsp. tauricum, Angelica archangelica, Asparagus verticillatus, Asphodeline lutea, Campanula romanica, Dianthus spiculifolius, D. nardiformis, D. pseudarmeria, Ecballium elaterium, Echinops banaticus, Ephedra distachya, Epipactis helleborine, Euphorbia myrsinites subsp. myrsinites, Helleborus odorus, Hepatica transsilvanica, Iris graminea subsp. brandzae, I. halophila, I. sibirica, Juniperus sabina, Larix decidua, Leontopodium alpinum, Lychnis viscaria subsp. atropurpurea, Paeonia daurica, P. officinalis var. banatica, P. peregrina, P. tenuifolia, Periploca graeca, Petrorhagia saxifraga, Pinus nigra subsp. banatica, P. sylvestris, Polemonium caeruleum, Potentilla rupestris, Pulsatilla vulgaris subsp. grandis, Ruscus aculeatus, R. hypoglossum, Salvia ringens, Satureja caerulea, Sedum album, Silene nutans subsp. dubia, S. zawadzkii, Sorbus borbasii, Syringa josikaea, Taxus baccata, Thymus serpyllum, Waldsteinia geoides.
+            Rolul principal al sectorului este de a contribui la educarea omului in spiritul conceptiei stiintifice despre lume si viata si de a mobiliza la lupta pentru conservarea naturii, pentru ocrotirea mediului ambiant.
+            "
+            }
+        ],
+        "images":[
+            {
+                "id": 9,
+                "url": "https://i.imgur.com/0c1GlHs.png"
+            }
+        ]
+      },
+      {
+        "id": 10,
+        "name": "Complexul de sere",
+        "locationAndSize": "Complexul de Sere este situat în zona centrala a sectorului Ornamental, ocupa o suprafata de 5500 m² si cuprinde 21 de sere. Dintre acestea, 9 sunt deschise permanent spre vizitare, iar 3 sunt accesibile vizitatorilor în anumite perioade din an, cu ocazia diferitelor evenimente expozitionale.
+        Accesul în serele de vizitare se realizează pe două căi: prin intrarea principală în pavilionul administrativ, de unde se poate ajunge la sera Mediteraneeană sau la sera Palmariu sau prin intrarea de pe aleea ce separă sectiile Ornamentală si Fitogeografică. Pe aici se ajunge la sera Cicadatelor, Tropicală, a Suculentelor si a Cactusilor. O a treia intrare, prin sera Expozitională, este accesibilă publicului doar cu ocazia evenimentelor organizate în acest spatiu",
+        "description": "Complexul de sere adăposteste circa 2.600 taxoni, cu origine în tinuturile subtropicale, tropicale si ecuatoriale ale globului. Colectiile sunt grupate după provenienta geografică a plantelor, tinând cont de cerintele ecologice, în sere calde, temperate sau reci.
+        Colectia plantelor xerofile reprezinta o asociatie eterogena de taxoni cu aspect arboricol, care provin din zone cu climat subtropical de tip mediteranean. Cei mai multi taxoni sunt binecunoscuti: maslinul (Olea europaea), rodiul (Punica granatum), roscovul (Ceratonia siliqua), oleandrul (Nerium oleander), rosmarinul (Rosmarinus officinalis), chiparosul (Cupressus sempervirens). Vegetatia din zonele analoage celor mediteraneene, localizată în sudul Africii de Sud este reprezentată în colecțiile noastre prin speciile Myrsine africana, Agapanthus africanus (crin albastru), Haemanthus albiflos, Clivia miniata (crin rosu).
+        Flora zonelor tropicale si subtropicale este probabil cea mai bine reprezentata prin specii lemnoase si ierboase ce provin de pe toate continentele (exceptie, cel antarctic).
+        Dintre speciile arborescente cele mai cunoscute si raspandite in cultura apartin genului Ficus, apreciati in general pentru aspectul decorative. In serele gradinii sunt cultivate peste 150 de exemplare apartinând la peste 20 taxoni (specii si varietăti horticole): F. benjamina (ficusul plangator), F. elastica (ficusul de cauciuc), F. pumila. Numeroase speciile lemnoase tropicale sunt foarte apreciate pentru aspectul decorativ al frunzelor: Cordyline, Dracaena, Aucuba, soiuri de Codiaeum variegatum (croton) etc.
+        In grupul mare al speciilor arborescente palmierii ocupa un loc aparte, aspectul lor caracteristic fiind asociat cu zonele exotice. In serele gradinii se cultiva numeroase exemplare din specii cu frunze cu aspect palmat (Chamaerops humilis - palmierul pitic, Trachycarpus fortunei - palmierul evantai, Washingtonia filifera) sau penat (Phoenix dactylifera – curmal, Sabal sp.).
+        O importanta deosebita pentru specialisti prezinta exemplarele ce apartin familiei Cycadaceae, forme primitive in cadrul plantelor fanerogame actuale. Cea mai raspandita specie a genului este Cycas revoluta, originara din Japonia. Colectia mai cuprinde si alti reprezentanti ai grupului: Ceratozamia mexicana (originara din America Centrala), speciile africane Encephalartos ferox si Stangeria eriopus.
+        Plantele exotice erbacee de origine tropicala cunoscute in cultura de mult timp provin mai ales din regiunile sudamericane si asiatice. Horticultorii amatori apreciaza aceste plante fie pentru frunzișul remarcabil prin forma si culoare, fie pentru florile care adesea impresioneaza prin aspect sau dimensiuni.
+        Probabil plantele cele mai iubite pentru frunzisul lor sunt ferigile (Pteridophyta), care se fac remarcate fie prin luxurianta (Asplenium, Nephrolepis), fie prin eleganta (Adiantum, Davallia, Sellaginella). In aceeasi categorie de plante se inscriu specii din genurile Begonia (plămân), Peperomia, Pilea, Colocasia (taro), Dieffenbachia, Monstera, Syngonium, Tradescantia (telegraf).
+        Numeroase plante decorative prin flori apartin familiei Gesneriaceae, Acanthaceae sau Araceae. În cazul ultimei familii botanice se remarca speciile genului Anthurium (floarea flamingo) ce dispun de o inflorescenta atragatoare prin forma si coloritul spadixului si spatei; mai puțin cunoscuți sunt reprezentanții genului Spathiphyllum (crinul păcii).
+        Colectia de plante suculente cuprinde reprezentanti din familii botanice diferite ce au caracteristici esentiale commune ce le permit supravietuirea in zone aride: retin si acumuleaza apa in organele vegetative.
+        Marea majoritate a cactusilor provin din regiunile desertice sau semidesertice ale Americii de Nord si Sud, zona mexicana fiind cea mai bogata in specii. In serele gradinii familia Cactaceae prezinta specii din genurile Astrophytum, Cereus, Rebutia, Echinocereus, Echinopsis, Opuntia, Mammillaria (reprezentat de peste 500 de exemplare). Din aceleasi zone aride americane provin reprezentanti ai genurilor Agave, Yucca, Nolina, cu specii apreciate si cultivate pentru aspectul ornamental.
+        In zonele cu deficit pluviometric din Asia, Australia, dar mai ales Africa se dezvolta reprezentanti din familii caracteristic suculente (Crassulaceae – Aeonium, Crassula, Sedum, Kalanchöe; Aizoaceae) sau la care suculenta este un fenomen sporadic (Asparagaceae cu genurile Aloe sau Sansevieria; Euphorbiaceae cu unele specii de Euphorbia; Apocynaceae cu genurile Stapelia sau Ceropegia).
+        Plantele utile provenite din zonele tropicale si subtropicale sunt prezentate in diferite spatii si predomina cele cu utilizari alimentare. 
+        Dintre plantele de la care se utilizeaza fructele comestibile amintim: avocado (Persea americana), roscovul (Ceratonia siliqua), mango (Mangifera indica) mosmonul japonez (Eriobotrya japonica), Psidium guajava (guaiava), 
+        Alte specii de plante utile prezente in serele gradinii sunt:
+        •	plante care furnizeaza materie prima utilizata in industria textila: ramia (Boehmeria sp.), inul de Noua Zeelanda (Phormium tenax), palmierul de canepa (Rhapis excels) etc.;
+        •	plante cu proprietati stimulatoare: arborele de cafea (Coffea arabica), arborele de cacao (Theobroma cacao);
+        •	plante medicinale si aromatice: arborele de camfor (Cinnamomum camphora), dafin (Laurus nobilis) etc.;
+        O colectie foarte apreciata, care starneste interesul vizitatorilor in sezonul hibernal (decembrie – martie) este cea de azalee (Rhododendron) si camelii (Camellia). Azaleele sunt reprezentate de sute de exemplare ce provin in majoritate de la peste 30 de soiuri ale speciei est-asiatice R. simsii. 
+        Colectia de camelii a gradinii cuprinde exemplare de la 10 soiuri ale speciei Camellia japonica. Toate exemplarele cu valoare horticola sunt valorificate in cadrul unei expozitii anuale.
+        Complexul de Sere reprezinta o completare a sectiei Fitogeografice, aici fiind cultivate specii ce nu rezista in conditiile climatice ale zonei noastre. Impreuna, cele doua sectii reusesc sa ofere vizitatorilor o imagine cat mai completa asupra florei din diferite zone biogeografice.",
+        "latitude": 47.187793,
+        "longitude": 27.556017,
+        "subsections":[],
+        "images":[
+            {
+                "id": 10,
+                "url": "https://i.imgur.com/7HDlxBc.png"
+            }
+        ]
+      }
+      
   ]
 }
